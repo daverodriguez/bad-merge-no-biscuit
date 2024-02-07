@@ -1,4 +1,4 @@
 # Here's my project
 
 - Look how nice it is
-- This is the main branch
+- This is the dev branch
